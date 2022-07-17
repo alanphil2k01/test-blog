@@ -1,4 +1,4 @@
-baseURL = 'https://IEDCMEC.github.io/iedc-blog/'
+baseURL = 'https://alanphil2k01.github.io/test-blog/'
 canonifyURLs = true
 
 languageCode = "en"
