@@ -1,0 +1,9 @@
+.sidebar__introduction-profileimage {
+    width: auto;
+    height: auto;
+    border-radius: 0%;
+}
+
+.fab, .fas {
+    color: #880000;
+}
